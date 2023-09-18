@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div className='p-8 bg-slate-50 text-slate-900 dark:bg-slate-900 h-screen flex flex-col items-center text-center'>
+    <div className='h-screen flex flex-col items-center text-center p-8 bg-slate-50 text-slate-900 dark:bg-slate-900 '>
       <div className='max-w-2xl'>
         <h1 className='font-bold text-3xl flex sm:text-5xl lg:text-5xl'>
         Rapidly build modern websites without ever leaving your HTML.
